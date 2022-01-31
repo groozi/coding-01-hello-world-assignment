@@ -1,7 +1,8 @@
 /*********************
 * Name: Graziella Buitron
 * Coding 01
-* Purpose: Hello World Program
+* Purpose: Modification of "Hello World" program to demonstrate proper use of
+* header files, to use github, to explain proper coding processes, and to demonstrate command line parameters.
 **********************/
 
 #ifndef COMMANDLINE_FUNCTIONS_H
